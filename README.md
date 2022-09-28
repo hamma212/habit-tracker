@@ -1,53 +1,4 @@
-# Module 2 Group Assignment
-
-CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/291031/pages/project-2)
-
-## App Info:
-
-* Team Name: Full-Stack-Overflow
-* App Name: Habitual.ly
-* App Link: https://project-two-8bf54.web.app
-
-### Students
-
-* Rayan Dhamuke, dhamu002@umn.edu
-* Hung DoVu, dovu0001@umn.edu
-* Sami Hammami, hamma212@umn.edu
-* Michael McCune, mccun050@umn.edu
-* Dongwei Pan, pan00179@umn.edu
-
-
-## Key Features
-
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
-* The logic for updating a streak. There are so many cases to account when paired with the features we made available.
-* The logic for the stats page.
-
-
-Which (if any) device integration(s) does your app support?
-
-* Camera
-
-Which (if any) progressive web app feature(s) does your app support?
-
-* Add to home screen
-
-
-
-## Mockup images
-
-[Link to Our Mock Up](https://balsamiq.cloud/sf0pego/pbcgni6)
-
-
-## Testing Notes
-
-**Is there anything special we need to know in order to effectively test your app? (optional):**
-
-* These 2 features -- updating streak by touching and holding, and the drag and drop on Organize Habit -- work on mobile, but cause the pop-up when you hold on an image on a mobile device to show. An update streak button, is placed below the habit on smaller screen sizes, allowing for easier updating of habit streaks.
-
-
+* Try it here! : https://project-two-8bf54.web.app
 
 ## Screenshots of Site (complete)
 
@@ -96,15 +47,6 @@ The side menu allows users to sign in/out and navigate between main pages (Home,
 
 ## External Dependencies
 
-**Document integrations with 3rd Party code or services here.
-Please do not document required libraries (e.g., Vue, Vuefire, Firebase).**
-
 * Bulma: CSS Framework used for majority of styling
 * Bootstrap: Used for side menu styling
 * Chart.js: Used for graphs on the habit page and user stats page
-
-**If there's anything else you would like to disclose about how your project
-relied on external code, expertise, or anything else, please disclose that
-here:**
-
-...
