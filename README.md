@@ -1,4 +1,4 @@
-* Try it here! : https://project-two-8bf54.web.app
+## [Try it here!](https://project-two-8bf54.web.app)
 
 ## Screenshots of Site (complete)
 
